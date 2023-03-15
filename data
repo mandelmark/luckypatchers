@@ -1,9 +1,16 @@
-com.HubLawtanApp1.HappyLuckyPatchersHelper
-
-f17703e6e8c0770e	BANNER	-	
-
-2149790c8c303a29	INTER	-	
-
-6878f4e14cdaf1c4	NATIVE	-	
-
-8666c3d9f4f19f9c	REWARD	-
+        {
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"f17703e6e8c0770e",
+            "inter":"2149790c8c303a29",
+            "nativ":"6878f4e14cdaf1c4",
+            "reword":"8666c3d9f4f19f9c"}
+            }
